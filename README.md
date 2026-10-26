@@ -3,7 +3,20 @@
 🤖 Passionate about AI/ML || Aspiring AI/ML Engineer || Web Development || DSA || Building Intelligent Solutions 🚀 | India 🇮🇳
 </h3>
 
-Email Me 👉 ✉️ **abhirnna.bhol@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+---
+
+## 👩‍💻 About Me
+
+* 🤖 Passionate about exploring Artificial Intelligence and Machine Learning and building intelligent solutions.
+* 🌱 Currently strengthening my skills in AI/ML, Python, and Data Structures & Algorithms (DSA).
+* 💻 Interested in Artificial Intelligence, Machine Learning, and Software Development.
+* 🔧 Hands-on with **DAX measures, data cleaning, and visual storytelling**.
+* 🧠 Enjoy solving problems, learning new technologies, and turning ideas into practical projects.
+* 🤝 Open to collaborating on **AI/ML and Web Development projects**.
+* 📫 Email: **[abhirnna.bhol@gmail.com](mailto:abhirnna.bhol@gmail.com)**
+* ⚡ Fun fact: *I love exploring how AI can turn ideas into intelligent solutions.*
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aSewn69kh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirnna-sunder-bhol-242273380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirnna.bhol@gmail.com) 
