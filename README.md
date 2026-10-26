@@ -4,7 +4,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhirnnabhol/abhirnnabhol/main/ai-ml-banner.png.png" alt="AI/ML Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/abhirnnabhol/abhirnnabhol/main/ai-ml-profile.pmg" alt="AI/ML Banner" width="100%">
 </div>
 ---
 
