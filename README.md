@@ -49,8 +49,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+The more I study science, the more I believe in God.
+</h3>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
