@@ -3,6 +3,9 @@
 🤖 Passionate about AI/ML || Aspiring AI/ML Engineer || Web Development || DSA || Building Intelligent Solutions 🚀 | India 🇮🇳
 </h3>
 
+<div align="center">
+  <img src="./ai-ml-banner.png" alt="AI/ML Banner" width="100%">
+</div>
 ---
 
 ## 👩‍💻 About Me
