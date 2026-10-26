@@ -1,6 +1,7 @@
-
-# 💫 Hi 👋, I'm Abhirnna Sunder Bhol
+<h1 align="center">Hi 👋, I'm Abhirnna Sunder Bhol</h1>
+<h3 align="center">
 🤖 Passionate about AI/ML || Aspiring AI/ML Engineer || Web Development || DSA || Building Intelligent Solutions 🚀 | India 🇮🇳
+</h3>
 
 Email Me 👉 ✉️ **abhirnna.bhol@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
