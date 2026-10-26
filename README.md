@@ -50,8 +50,11 @@
 </div>
 
 <h3 align="center">
-The more I study science, the more I believe in God.
+  &ldquo;The more I study science, the more I believe in God.&rdquo;
 </h3>
+<p align="right">
+  <em>&mdash; Albert Einstein</em>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
