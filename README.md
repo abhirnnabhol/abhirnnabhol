@@ -16,7 +16,6 @@
 * 🤖 Passionate about exploring Artificial Intelligence and Machine Learning and building intelligent solutions.
 * 🌱 Currently strengthening my skills in AI/ML, Python, and Data Structures & Algorithms (DSA).
 * 💻 Interested in Artificial Intelligence, Machine Learning, and Software Development.
-* 🔧 Hands-on with **DAX measures, data cleaning, and visual storytelling**.
 * 🧠 Enjoy solving problems, learning new technologies, and turning ideas into practical projects.
 * 🤝 Open to collaborating on **AI/ML and Web Development projects**.
 * 📫 Email: **[abhirnna.bhol@gmail.com](mailto:abhirnna.bhol@gmail.com)**
